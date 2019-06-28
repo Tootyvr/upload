@@ -1,0 +1,329 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 11964,
+      "max": [
+        48.984401702880859,
+        -141.05979919433594,
+        340.43829345703125
+      ],
+      "min": [
+        23.153499603271484,
+        -196.64860534667969,
+        196.45060729980469
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 143568,
+      "componentType": 5126,
+      "count": 11964,
+      "max": [
+        1,
+        0.99989414215087891,
+        0.99871468544006348
+      ],
+      "min": [
+        -0.99999713897705078,
+        -0.99538993835449219,
+        -0.96738481521606445
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 11964,
+      "max": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "min": [
+        -0.41647505760192871,
+        -0.91181445121765137,
+        -0.53971689939498901,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 11964,
+      "max": [
+        0.49329999089241028,
+        0.98640000820159912
+      ],
+      "min": [
+        0.29289999604225159,
+        0.59409999847412109
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 71664,
+      "max": [
+        11963
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 287136,
+      "componentType": 5126,
+      "count": 8901,
+      "max": [
+        68.96820068359375,
+        -138.7677001953125,
+        340.7047119140625
+      ],
+      "min": [
+        3.9681999683380127,
+        -213.14939880371094,
+        165.43040466308594
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 393948,
+      "componentType": 5126,
+      "count": 8901,
+      "max": [
+        0.99865204095840454,
+        0.99998795986175537,
+        0.99309360980987549
+      ],
+      "min": [
+        -0.99995410442352295,
+        -0.99986422061920166,
+        -0.99980062246322632
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 191424,
+      "componentType": 5126,
+      "count": 8901,
+      "max": [
+        0.99997538328170776,
+        0.99807709455490112,
+        0.84259355068206787,
+        1
+      ],
+      "min": [
+        -0.99998193979263306,
+        -0.99998807907104492,
+        -0.84415489435195923,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 95712,
+      "componentType": 5126,
+      "count": 8901,
+      "max": [
+        0.74169999361038208,
+        0.99800002574920654
+      ],
+      "min": [
+        0.0019000000320374966,
+        0.0019000000320374966
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 286656,
+      "componentType": 5125,
+      "count": 52302,
+      "max": [
+        8900
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "justdentist (https://sketchfab.com/justdentist)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/dent-6aee3f933c5642ccb9939e28d3d3c13d",
+      "title": "Dent"
+    },
+    "generator": "Sketchfab-5.63.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 495864,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 166920,
+      "byteOffset": 495864,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 500760,
+      "byteOffset": 662784,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 333840,
+      "byteOffset": 1163544,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1497384,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "wire_223198087",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.99219999999999997,
+          0.1216,
+          0.078399999999999997,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.91675550189999999
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "wire_224198087",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          0.29999999999999999
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.91675550189999999
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        4
+      ],
+      "name": "dent.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+
